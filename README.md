@@ -5,7 +5,9 @@
 Take a look to my posts on [HablaBlogs](https://www.habla.dev/blog/):
 
 
-<svg fill="none"  xmlns="http://www.w3.org/2000/svg">
+<svg class="front" viewBox="0 0 0 0"  xmlns="http://www.w3.org/2000/svg">
+
+  <foreignObject  x="0" y="0" width="50%" height="50%">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
         @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
@@ -54,8 +56,8 @@ Take a look to my posts on [HablaBlogs](https://www.habla.dev/blog/):
         width: 350px;
         height: 500px;
         position: absolute;
-        top: 350px;
-        left: 0;
+        top: 0px;
+        left: 0px;
         z-index: 15;
         }
         .blog-card:hover .card-info {
