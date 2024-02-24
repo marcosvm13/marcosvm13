@@ -5,12 +5,29 @@
 Take a look to my posts on [HablaBlogs](https://www.habla.dev/blog/):
 
 
+
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        h1{
+            color: #5e2c1e;
+        }
+      </style>
+      <h1>sDFA</h1>
+    </div>
+  </foreignObject>
+</svg>
+
+
 <svg class="front" viewBox="0 0 0 0"  xmlns="http://www.w3.org/2000/svg">
+
+<svg class="front" viewBox="0 0 0 0"  xmlns="http://www.w3.org/2000/svg">
+
   <foreignObject  x="0" y="0" width="50%" height="50%">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
-        @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
-        @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic);
         * {
         box-sizing: border-box;
         margin: 0;
@@ -80,7 +97,6 @@ Take a look to my posts on [HablaBlogs](https://www.habla.dev/blog/):
         font-weight: 1000;
         letter-spacing: 2px;
         color: #000000;
-        font-family: "Roboto", sans-serif;
         margin-bottom: 0;
         }
         hr {
@@ -122,7 +138,6 @@ Take a look to my posts on [HablaBlogs](https://www.habla.dev/blog/):
         padding: 0 0 0 22px;
         display: inline-block;
         color: #DCE3E7;
-        font-family: "Roboto", sans-serif;
         }
         .utility-list li.date {
         background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1765/icon-calendar.svg) no-repeat 0 0.1em;
