@@ -21,10 +21,8 @@ Take a look to my posts on [HablaBlogs](https://www.habla.dev/blog/):
 </svg>
 
 
-<svg class="front" viewBox="0 0 0 0"  xmlns="http://www.w3.org/2000/svg">
 
 <svg class="front" viewBox="0 0 0 0"  xmlns="http://www.w3.org/2000/svg">
-
   <foreignObject  x="0" y="0" width="50%" height="50%">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
