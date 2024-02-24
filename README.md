@@ -29,5 +29,5 @@ Take a look to my posts on [HablaBlogs](https://www.habla.dev/blog/):
 
 Take a look to the code repository from my Python for Biologist course:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosvm13&repo=marcosvm13)](https://github.com/marcosvm13/marcosvm13)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosvm13&repo=PythonForBiology)](https://github.com/marcosvm13/PythonForBiology)
 
