@@ -11,7 +11,7 @@
 <h2>Marcos Vázquez Martín</h2>
 
 <p>
-Industrial PhD Researcher in Bio-Inspired AI<br>
+Industrial PhD Researcher · Bio-Inspired AI<br>
 Scalable ML Systems · Industrial Data Architectures
 </p>
 
